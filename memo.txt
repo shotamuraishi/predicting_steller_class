@@ -1,0 +1,7 @@
+id: id
+alpha: the object's position along the celestial equator
+delta: how far north or south an object lies from the celestial equator
+u, g, r, i, z: photometric systems
+redshift: a phonemenon where light from an astronomical object is stretche to longer wavelengths
+spectral types: color
+galaxy population: the size of the object?
